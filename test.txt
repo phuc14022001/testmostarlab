@@ -1,0 +1,3 @@
+git init
+git remore   ....
+git checkout -p tên nhanh 
